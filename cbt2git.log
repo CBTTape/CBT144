@@ -1,0 +1,5 @@
+2023-08-06 01:22:22.700441 - Initialized conversion of CBT144
+2023-08-06 01:22:22.725259 - Received CBT.V505.FILE144.PDS from FILE144.XMI 
+2023-08-06 01:22:22.727475 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE144.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:22:22.728564 - Found @FILE144.txt (text/plain) in CBT.V505.FILE144.PDS, moved to PDS/@FILE144
+2023-08-06 01:22:22.729669 - Found VPSEXIT.txt (text/plain) in CBT.V505.FILE144.PDS, moved to PDS/VPSEXIT
